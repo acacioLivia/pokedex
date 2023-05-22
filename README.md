@@ -16,3 +16,7 @@ Projeto front-end com js que lista alguns pokemons da primeira geração. A list
 - [@AcacioLivia](https://github.com/acacioLivia)
 
 
+## Screenshots
+
+![final](https://github.com/acacioLivia/pokedex/blob/283b1f4d60e11c8198ade8be5a1f0c0bd4ef2c0e/imagens/final.png)
+
