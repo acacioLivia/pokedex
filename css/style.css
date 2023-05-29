@@ -82,6 +82,9 @@ main .cartao-pokemon .informacoes span {
 main .cartao-pokemon .gif {
 	width: 90px;
 	height: 90px;
+	filter: drop-shadow(12px 12px 7px rgba(0, 0, 0, 0.7));
+	backface-visibility: hidden;
+	will-change: transform;
 }
 
 main .cartao-pokemon .tipos {
