@@ -18,5 +18,5 @@ Projeto front-end com js que lista alguns pokemons da primeira geração. A list
 
 ## Screenshots
 
-![final](https://github.com/acacioLivia/pokedex/blob/283b1f4d60e11c8198ade8be5a1f0c0bd4ef2c0e/imagens/final.png)
+<img src="imagens\final-atualizacao.png" title="Imagem final do projeto"/>
 
